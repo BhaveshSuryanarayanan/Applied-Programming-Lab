@@ -1,0 +1,10 @@
+.circuit
+V1 n1 GND dc 150
+I1 n2 GND dc 5
+V2 n2 n3 dc 100
+R3 GND n3 20
+R2 n2 n1 12.5
+R1 GND n4 25
+R4 n3 n4 10
+I2 n1 n4 dc 10
+.end

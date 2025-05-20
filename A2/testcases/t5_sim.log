@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\sem3\APL\A2\testcases\t5_sim.asc
+Start Time: Fri Aug 30 23:33:14 2024
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.105 seconds.
+

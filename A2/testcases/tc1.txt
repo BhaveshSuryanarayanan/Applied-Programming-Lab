@@ -1,0 +1,7 @@
+.circuit
+VSource n1 GND 10
+R1 n1 n2 5
+R2 n2 n3 5
+R3 n3 GND 5
+.end
+

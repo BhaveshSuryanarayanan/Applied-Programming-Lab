@@ -1,0 +1,6 @@
+Shorted Current source 
+.circuit
+V1 GND n1 dc 5
+R1 n1 GND 5
+I1 n1 n1 2
+.end

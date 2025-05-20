@@ -1,0 +1,7 @@
+Test case for current source + plus voltage source
+.circuit
+I1 n1 GND 10
+V1 n3 n1 5
+R1 GND n2 5
+R2 n3 n2 5
+.end
